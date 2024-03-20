@@ -1,4 +1,4 @@
-This is a repo for managing all my ML learning projects in an organized fashion.
+This is a repo for managing all of my ML learning projects in an organized fashion.
 
 All the projects will have  -
 1. The dataset
